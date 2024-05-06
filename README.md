@@ -5,5 +5,5 @@ Toxic language in online spheres is affecting individuals and communities in soc
 ## user interface 
 
 <p align="center">
-    <img width="800" height="200" src="https://github.com/hasanselimyagci/eai-project-toxicity/blob/main/img/eai-ui.png">
+    <img src="https://github.com/hasanselimyagci/eai-project-toxicity/blob/main/img/eai-ui.png">
   </p>
