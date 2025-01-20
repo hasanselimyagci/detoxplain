@@ -7,3 +7,9 @@ Toxic language in online spheres is affecting individuals and communities in soc
 <p align="center">
     <img src="https://github.com/hasanselimyagci/eai-project-toxicity/blob/main/img/eai-ui.png">
   </p>
+
+
+## notebooks
+
+You can find individual experiments inside the notebooks folder, whereas 'project_pipeline' demonstrates the whole pipeline with instructions for each major parts and setup of final Gradio interface.
+
